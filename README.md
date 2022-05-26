@@ -19,5 +19,6 @@ the app containes the following specifications
     6. Dotted Checkbox:
       If checked it lets the shapes line stroke to be dotted. If not checked, it lets the shapes line strokes to be solid.
     7. Filled Checkbox:
-      If checked, it lets the Rectangle or Oval shapes that will be drawn after to be filled with the pre-selected color. If not check, it lest the shapes to be
+      If checked, it lets the Rectangle or Oval shapes that will be drawn after to be filled with the pre-selected color.
+      If not check, it lest the shapes to be
     drawn as outlines only.
