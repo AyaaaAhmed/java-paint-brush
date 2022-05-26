@@ -1,6 +1,7 @@
 # java-paint-brush
 a simulation to paint brush app using java applet
 the app containes the following specifications
+-------------------------------------------------------------
     1. Colors Buttons: 
        Red
        Green
